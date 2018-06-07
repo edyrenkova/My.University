@@ -1,4 +1,4 @@
-#My.University
+# My.University
 
 Випускна робота з теми: "The Helper For The US Student".
 
