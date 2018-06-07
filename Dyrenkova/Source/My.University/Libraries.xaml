@@ -1,0 +1,184 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:My.University"
+        xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing" x:Name="Campus" x:Class="My.University.Libraries"
+        mc:Ignorable="d"
+        Title="Campus" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Width="1360" Height="760" Closed="Campus_Closed">
+    <Window.Resources>
+        <Storyboard x:Key="Library">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="library">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.6"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="0.985"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="path2">
+                <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.1" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="rectangle2">
+                <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.1" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="rectangle3">
+                <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.1" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="tree1_Copy1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.7"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="Campus">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="grid">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.6"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="rectangle">
+                <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.1" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="rectangle4">
+                <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.1" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="path3">
+                <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.1" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="Hospital">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="grid2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.6"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="rectangle1">
+                <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.1" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="rectangle5">
+                <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.1" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="path">
+                <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.1" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="Shop">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="grid3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.6"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid4">
+                <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.1" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="UIElement.MouseEnter" SourceName="library">
+            <BeginStoryboard x:Name="Library_BeginStoryboard" Storyboard="{StaticResource Library}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseLeave" SourceName="library">
+            <StopStoryboard BeginStoryboardName="Library_BeginStoryboard"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseEnter" SourceName="grid">
+            <BeginStoryboard x:Name="Campus_BeginStoryboard" Storyboard="{StaticResource Campus}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseEnter" SourceName="grid3">
+            <BeginStoryboard x:Name="Shop_BeginStoryboard" Storyboard="{StaticResource Shop}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseLeave" SourceName="grid3">
+            <StopStoryboard BeginStoryboardName="Shop_BeginStoryboard"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseEnter" SourceName="grid2">
+            <BeginStoryboard x:Name="Hospital_BeginStoryboard" Storyboard="{StaticResource Hospital}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseLeave" SourceName="grid2">
+            <StopStoryboard BeginStoryboardName="Hospital_BeginStoryboard"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseLeave" SourceName="grid">
+            <StopStoryboard BeginStoryboardName="Campus_BeginStoryboard"/>
+        </EventTrigger>
+    </Window.Triggers>
+    <Grid x:Name="grid1">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="White" Offset="0.797"/>
+                <GradientStop Color="#FFB6E896" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+
+        <Path x:Name="path2" Data="M261.16614,359.05165 L262.44573,194.46677 169.13688,192.75619 169.08164,-48.845918" StrokeDashArray="2 1" Margin="371,209.2,0,145.073" Stretch="Fill" Stroke="#FF20D0C2" StrokeThickness="8" HorizontalAlignment="Left" Width="97.6" Visibility="Hidden"/>
+
+
+        <Grid x:Name="grid4" HorizontalAlignment="Right" Margin="0,305.4,146.26,257.151" Width="256.54" Visibility="Hidden">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+
+            <Path x:Name="path1" Data="M4,4 L8.8000015,191.2 97.6,190 100,319.6" StrokeDashArray="2 1" Margin="0,-27.2,-16.06,-120.151" Stroke="#FF20D0C2" StrokeThickness="8" HorizontalAlignment="Right" Width="104"/>
+
+
+            <Rectangle Margin="61.8,-129.8,57.14,0" Fill="#FF20D0C2" Height="129.612" VerticalAlignment="Top"/>
+            <Rectangle Margin="79.6,-124.8,73.14,0" Height="103.812" VerticalAlignment="Top">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="pics/food.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+        </Grid>
+
+
+        <Path x:Name="path" Data="M-116.16385,402.72032 L-113.66301,285.71997 -40.990404,279.66662 -39.323173,68.199924" StrokeDashArray="2 1" HorizontalAlignment="Left" Margin="66.858,305.4,0,116.612" Stretch="Fill" Width="81.742" Stroke="#FF20D0C2" StrokeThickness="8" Visibility="Hidden"/>
+
+
+        <Path x:Name="path3" Data="M393.18414,762.0382 L389.84969,637.23852 456.5388,635.50519 456.53879,387.63893" StrokeDashArray="2 1" Margin="0,270.6,593.8,114.6" Stretch="Fill" Stroke="#FF20D0C2" StrokeThickness="8" HorizontalAlignment="Right" Width="72" Visibility="Hidden"/>
+
+
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" TextWrapping="Wrap" Width="1360" FontSize="90" FontFamily="Gill Sans MT" TextAlignment="Center" Text="MY.Campus" FontWeight="Bold" Height="117" VerticalAlignment="Top"/>
+        <Rectangle x:Name="grad" ToolTip="Back to the MainWindow" Cursor="Hand" Margin="1213.6,0,0,611.8" MouseDown="grad_MouseDown">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="graduate.png" Stretch="Uniform"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Grid x:Name="grid2" HorizontalAlignment="Left" Height="232.8" Margin="27.4,0,0,10" VerticalAlignment="Bottom" Width="413.2" Opacity="0.6" Cursor="Hand">
+            <Image x:Name="hospital" Source="pics/hospital.png" Margin="0,28,157.6,0" MouseDown="hospital_MouseDown"/>
+            <Image x:Name="tree2" Source="pics/tree2.png" HorizontalAlignment="Right" Width="45" Margin="0,0,140,0" Height="92.8" VerticalAlignment="Bottom" d:LayoutOverrides="VerticalAlignment"/>
+            <Image x:Name="bank" Source="pics/bank.png" Margin="186,0,157.6,0" Height="36" VerticalAlignment="Bottom"/>
+        </Grid>
+        <Image x:Name="library" Source="pics/library.png" Margin="370,0,0,10" HorizontalAlignment="Left" Width="280.8" Height="257" VerticalAlignment="Bottom" Opacity="0.6" Cursor="Hand" MouseDown="library_MouseDown"/>
+        <Grid x:Name="grid" Height="250" Margin="625,0,187,-7.6" VerticalAlignment="Bottom" Opacity="0.6" Cursor="Hand">
+            <Image x:Name="school" Source="pics/school.png" Margin="0,20.533,65.6,18.267" MouseDown="school_MouseDown"/>
+            <Image x:Name="fountain" Source="pics/fountain.png" Margin="158.2,0,226.6,28.8" Height="71.2" VerticalAlignment="Bottom" d:LayoutOverrides="VerticalAlignment"/>
+        </Grid>
+        <Grid x:Name="grid3" HorizontalAlignment="Right" Height="204" Margin="0,0,41,10" VerticalAlignment="Bottom" Width="267.8" Opacity="0.6" Cursor="Hand">
+            <Image x:Name="shop" Source="pics/shop.png" Margin="53,41.2,0,0" MouseDown="shop_MouseDown"/>
+            <Image x:Name="tree1" Source="pics/tree1.png" Margin="24.4,105.6,0,0" HorizontalAlignment="Left" Width="49.2"/>
+        </Grid>
+        <Rectangle x:Name="rectangle3" HorizontalAlignment="Left" Height="129.6" Margin="303,117,0,0" VerticalAlignment="Top" Width="137.6" Fill="#FF20D0C2" Visibility="Hidden"/>
+        <Rectangle x:Name="rectangle" Margin="657.733,165.133,564.667,0" Fill="#FF20D0C2" Height="118.4" VerticalAlignment="Top" Visibility="Hidden"/>
+        <Rectangle x:Name="rectangle1" Margin="53,196,0,0" Fill="#FF20D0C2" HorizontalAlignment="Left" Width="137.6" Height="129.6" VerticalAlignment="Top" Visibility="Hidden"/>
+        <Rectangle x:Name="rectangle2" Height="103.8" Margin="317.4,131.6,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="103.8" Visibility="Hidden">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="pics/reading.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="rectangle5" Margin="66.6,209.2,0,0" HorizontalAlignment="Left" Width="103.8" Height="103.8" VerticalAlignment="Top" Visibility="Hidden">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="pics/medical.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="rectangle4" Margin="678.133,165.133,578.067,0" Height="103.8" VerticalAlignment="Top" Visibility="Hidden">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="pics/people.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Image x:Name="tree1_Copy1" Source="pics/tree1.png" Margin="317.4,0,0,10" HorizontalAlignment="Left" Width="52.6" Height="104" VerticalAlignment="Bottom" Opacity="0.7" Cursor="Hand"/>
+
+
+    </Grid>
+</Window>

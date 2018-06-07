@@ -1,0 +1,21 @@
+﻿<Window x:Class="My.University.Video"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:My.University"
+        mc:Ignorable="d"
+        Title="Video" Height="768" Closed="Window_Closed" Width="1366" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="71" Margin="10,132,0,0" TextWrapping="Wrap" Text="Harvard" VerticalAlignment="Top" Width="548" FontFamily="Gill Sans MT" FontSize="36" MouseDoubleClick="textBox_MouseDoubleClick"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="117" TextWrapping="Wrap" VerticalAlignment="Top" Width="1360" FontSize="80" FontFamily="Gill Sans MT" TextAlignment="Center" FontWeight="Bold" Margin="0,10,0,0" Text="Videos"/>
+        <Rectangle x:Name="grad" ToolTip="Back to the MainWindow" Cursor="Hand" MouseDown="grad_MouseDown" Margin="1192.9,0,0.1,565.4" >
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="pics/graduate.png" Stretch="Uniform"/>
+            </Rectangle.Fill>
+
+        </Rectangle>
+        <WebBrowser x:Name="wb_video" HorizontalAlignment="Left" Height="520" Margin="10,208,0,0" VerticalAlignment="Top" Width="1340"/>
+
+    </Grid>
+</Window>

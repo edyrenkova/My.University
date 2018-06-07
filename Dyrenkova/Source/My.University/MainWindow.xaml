@@ -1,0 +1,173 @@
+﻿<Window x:Class="My.University.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:My.University"
+        mc:Ignorable="d"
+        Title="Menu" Height="760" Width="1360" Closing="Window_Closing" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Window.Resources>
+        <Storyboard x:Key="OnMouseLeftButtonDown1">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="grad">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="993.792"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="grad">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-192.726"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="grad">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="grad">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0.707"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="grad">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0.684"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBlock">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="6.4"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBlock">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-230.4"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(TextElement.FontSize)" Storyboard.TargetName="textBlock">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="96"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBlock_Copy">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="400"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBlock_Copy">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-6.4"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="stackPanel">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-628.8"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="stackPanel1">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-628.8"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="stackPanel">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="4.8"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="stackPanel1">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="4.8"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="textBlock_Copy">
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.1" Value="{x:Static Visibility.Collapsed}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1" Value="{x:Static Visibility.Collapsed}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grad">
+                <DiscreteObjectKeyFrame KeyTime="0:0:1" Value="{x:Static Visibility.Hidden}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="pics_png_color_graduate_png">
+                <DiscreteObjectKeyFrame KeyTime="0:0:1" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="image">
+                <EasingDoubleKeyFrame KeyTime="0" Value="3.843"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-641.809"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="image">
+                <EasingDoubleKeyFrame KeyTime="0" Value="49.961"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="53.805"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="UIElement.MouseLeftButtonDown" SourceName="grad">
+            <BeginStoryboard Storyboard="{StaticResource OnMouseLeftButtonDown1}"/>
+        </EventTrigger>
+    </Window.Triggers>
+    <Grid>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="153" Margin="0,222,0,0" TextWrapping="Wrap" Text="MY. University" VerticalAlignment="Top" Width="1360" FontSize="120" FontFamily="Gill Sans MT" TextAlignment="Center" FontWeight="Bold" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock x:Name="textBlock_Copy" HorizontalAlignment="Left" Height="97" Margin="0,380,0,0" TextWrapping="Wrap" Text="The helper for the US student" VerticalAlignment="Top" Width="1360" FontSize="72" FontFamily="Gill Sans MT" TextAlignment="Center" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <Rectangle x:Name="grad" RenderTransformOrigin="0.5,0.5" Cursor="Hand" Margin="196.419,176.621,1011.819,0" ToolTip="Press to continue!" MouseDown="grad_MouseDown" Height="161.758" VerticalAlignment="Top">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-23.819"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="pics/png_color/hat.png" Stretch="Uniform"/>
+            </Rectangle.Fill>
+
+        </Rectangle>
+        <StackPanel x:Name="stackPanel" Orientation="Horizontal" Margin="70,861,62.6,-420.6" RenderTransformOrigin="0.5,0.5">
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+            <Rectangle Margin="100,40" Width="207" ToolTip="MY.Useful Info" Cursor="Hand" MouseDown="Rectangle_MouseDown_2">
+                <Rectangle.Fill>
+                    <ImageBrush Stretch="Uniform" ImageSource="pics/png_color/ereader.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle ToolTip="Famous Alumni" Margin="100,40" Width="207" MouseDown="Rectangle_MouseDown" Cursor="Hand" >
+                <Rectangle.Fill>
+                    <ImageBrush Stretch="Uniform" ImageSource="pics/png_color/graduation.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle ToolTip="MY.Campus" Margin="100,40" Width="207" Cursor="Hand" MouseDown="Rectangle_MouseDown_4" >
+                <Rectangle.Fill>
+                    <ImageBrush Stretch="Uniform" ImageSource="pics/png_color/school.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+        </StackPanel>
+        <StackPanel x:Name="stackPanel1" Orientation="Horizontal" Margin="270,1090,10,-650" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Center" Width="1074">
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+            <Rectangle ToolTip="MY.Schedule" Margin="100,40" Width="207" Cursor="Hand" MouseDown="Rectangle_MouseDown_1">
+                <Rectangle.Fill>
+                    <ImageBrush Stretch="Uniform" ImageSource="pics/png_color/calendar.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle ToolTip="MY.Settings" Margin="100,40" Width="207" Cursor="Hand" MouseDown="Rectangle_MouseDown_6" >
+                <Rectangle.Fill>
+                    <ImageBrush Stretch="Uniform" ImageSource="pics/png_color/desktop.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Canvas Height="111" Margin="100,150,0,0" VerticalAlignment="Top" Width="148">
+                <Image Height="107" Canvas.Left="28" Width="105" Source="pics/png_color/mortarboard.png" Cursor="Hand" MouseDown="Image_MouseDown"/>
+            </Canvas>
+        </StackPanel>
+        <Image x:Name="pics_png_color_graduate_png" ToolTip="To The Beginning" Cursor="Hand" HorizontalAlignment="Right" Height="181" Margin="0,0,10,0" Source="pics/png_color/graduate.png" Stretch="Uniform" VerticalAlignment="Top" Width="197.4" MouseDown="pics_png_color_graduate_png_MouseDown" Visibility="Hidden"/>
+        <Image x:Name="image" Height="119" HorizontalAlignment="Left" Width="442" Margin="502.822,0,0,-130.323" VerticalAlignment="Bottom" RenderTransformOrigin="0.5,0.5" >
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+    </Grid>
+</Window>

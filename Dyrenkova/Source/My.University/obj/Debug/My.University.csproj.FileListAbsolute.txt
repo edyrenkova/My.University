@@ -1,0 +1,522 @@
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\bin\Debug\My.University.exe.config
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\bin\Debug\My.University.exe
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\bin\Debug\My.University.pdb
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\obj\Debug\My.University.csprojResolveAssemblyReference.cache
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\obj\Debug\Menu.g.cs
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\obj\Debug\Schedule.g.cs
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\obj\Debug\App.g.cs
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\obj\Debug\My.University_MarkupCompile.cache
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\obj\Debug\My.University_MarkupCompile.lref
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\obj\Debug\Menu.baml
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\obj\Debug\Schedule.baml
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\obj\Debug\My.University.g.resources
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\obj\Debug\My.University.Properties.Resources.resources
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\obj\Debug\My.University.csproj.GenerateResource.Cache
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\obj\Debug\My.University.exe
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\obj\Debug\My.University.pdb
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\obj\Debug\MainWindow.g.cs
+c:\users\vlad\documents\visual studio 2015\Projects\My.University\My.University\obj\Debug\MainWindow.baml
+J:\kval\My.University\My.University\bin\Debug\My.University.exe.config
+J:\kval\My.University\My.University\obj\Debug\My.University.exe
+J:\kval\My.University\My.University\obj\Debug\My.University.pdb
+J:\kval\My.University\My.University\bin\Debug\My.University.exe
+J:\kval\My.University\My.University\bin\Debug\My.University.pdb
+J:\kval\My.University\My.University\obj\Debug\My.University.csprojResolveAssemblyReference.cache
+J:\kval\My.University\My.University\obj\Debug\MainWindow.g.cs
+J:\kval\My.University\My.University\obj\Debug\Menu.g.cs
+J:\kval\My.University\My.University\obj\Debug\Schedule.g.cs
+J:\kval\My.University\My.University\obj\Debug\App.g.cs
+J:\kval\My.University\My.University\obj\Debug\My.University_MarkupCompile.cache
+J:\kval\My.University\My.University\obj\Debug\My.University_MarkupCompile.lref
+J:\kval\My.University\My.University\obj\Debug\MainWindow.baml
+J:\kval\My.University\My.University\obj\Debug\Menu.baml
+J:\kval\My.University\My.University\obj\Debug\Schedule.baml
+J:\kval\My.University\My.University\obj\Debug\My.University.g.resources
+J:\kval\My.University\My.University\obj\Debug\My.University.Properties.Resources.resources
+J:\kval\My.University\My.University\obj\Debug\My.University.csproj.GenerateResource.Cache
+J:\kval\My.University\My.University\obj\Debug\Photo.baml
+J:\kval\My.University\My.University\obj\Debug\Photo.g.cs
+E:\kval\My.University\My.University\bin\Debug\My.University.exe.config
+E:\kval\My.University\My.University\obj\Debug\My.University.exe
+E:\kval\My.University\My.University\obj\Debug\My.University.pdb
+E:\kval\My.University\My.University\bin\Debug\My.University.exe
+E:\kval\My.University\My.University\bin\Debug\My.University.pdb
+E:\kval\My.University\My.University\obj\Debug\My.University.csprojResolveAssemblyReference.cache
+E:\kval\My.University\My.University\obj\Debug\Multimedia.baml
+E:\kval\My.University\My.University\obj\Debug\Photo.baml
+E:\kval\My.University\My.University\obj\Debug\MainWindow.g.cs
+E:\kval\My.University\My.University\obj\Debug\Menu.g.cs
+E:\kval\My.University\My.University\obj\Debug\Multimedia.g.cs
+E:\kval\My.University\My.University\obj\Debug\Photo.g.cs
+E:\kval\My.University\My.University\obj\Debug\Schedule.g.cs
+E:\kval\My.University\My.University\obj\Debug\App.g.cs
+E:\kval\My.University\My.University\obj\Debug\My.University_MarkupCompile.cache
+E:\kval\My.University\My.University\obj\Debug\My.University_MarkupCompile.lref
+E:\kval\My.University\My.University\obj\Debug\MainWindow.baml
+E:\kval\My.University\My.University\obj\Debug\Menu.baml
+E:\kval\My.University\My.University\obj\Debug\Schedule.baml
+E:\kval\My.University\My.University\obj\Debug\My.University.g.resources
+E:\kval\My.University\My.University\obj\Debug\My.University.Properties.Resources.resources
+E:\kval\My.University\My.University\obj\Debug\My.University.csproj.GenerateResource.Cache
+F:\kval\My.University\My.University\bin\Debug\My.University.exe.config
+F:\kval\My.University\My.University\obj\Debug\My.University.exe
+F:\kval\My.University\My.University\obj\Debug\My.University.pdb
+F:\kval\My.University\My.University\bin\Debug\My.University.exe
+F:\kval\My.University\My.University\bin\Debug\My.University.pdb
+F:\kval\My.University\My.University\obj\Debug\My.University.csprojResolveAssemblyReference.cache
+F:\kval\My.University\My.University\obj\Debug\Photo.baml
+F:\kval\My.University\My.University\obj\Debug\MainWindow.g.cs
+F:\kval\My.University\My.University\obj\Debug\Menu.g.cs
+F:\kval\My.University\My.University\obj\Debug\Photo.g.cs
+F:\kval\My.University\My.University\obj\Debug\Schedule.g.cs
+F:\kval\My.University\My.University\obj\Debug\App.g.cs
+F:\kval\My.University\My.University\obj\Debug\My.University_MarkupCompile.cache
+F:\kval\My.University\My.University\obj\Debug\My.University_MarkupCompile.lref
+F:\kval\My.University\My.University\obj\Debug\MainWindow.baml
+F:\kval\My.University\My.University\obj\Debug\Menu.baml
+F:\kval\My.University\My.University\obj\Debug\Schedule.baml
+F:\kval\My.University\My.University\obj\Debug\My.University.g.resources
+F:\kval\My.University\My.University\obj\Debug\My.University.Properties.Resources.resources
+F:\kval\My.University\My.University\obj\Debug\My.University.csproj.GenerateResource.Cache
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\bin\Debug\My.University.exe.config
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\My.University.exe
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\My.University.pdb
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\bin\Debug\My.University.exe
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\bin\Debug\My.University.pdb
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\My.University.csprojResolveAssemblyReference.cache
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\Multimedia.baml
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\Photo.baml
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\AboutAuthor.g.cs
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\MainWindow.g.cs
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\Menu.g.cs
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\Multimedia.g.cs
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\Photo.g.cs
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\Schedule.g.cs
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\App.g.cs
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\My.University_MarkupCompile.cache
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\My.University_MarkupCompile.lref
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\AboutAuthor.baml
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\MainWindow.baml
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\Menu.baml
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\Schedule.baml
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\My.University.g.resources
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\My.University.Properties.Resources.resources
+C:\Users\dyrenkova\Desktop\kval\My.University\My.University\obj\Debug\My.University.csproj.GenerateResource.Cache
+G:\kval\My.University\My.University\bin\Debug\My.University.exe.config
+G:\kval\My.University\My.University\obj\Debug\My.University.exe
+G:\kval\My.University\My.University\obj\Debug\My.University.pdb
+G:\kval\My.University\My.University\obj\Debug\My.University.csprojResolveAssemblyReference.cache
+G:\kval\My.University\My.University\obj\Debug\Photo.baml
+G:\kval\My.University\My.University\obj\Debug\AboutAuthor.g.cs
+G:\kval\My.University\My.University\obj\Debug\MainWindow.g.cs
+G:\kval\My.University\My.University\obj\Debug\Menu.g.cs
+G:\kval\My.University\My.University\obj\Debug\Photo.g.cs
+G:\kval\My.University\My.University\obj\Debug\App.g.cs
+G:\kval\My.University\My.University\obj\Debug\My.University_MarkupCompile.cache
+G:\kval\My.University\My.University\obj\Debug\My.University_MarkupCompile.lref
+G:\kval\My.University\My.University\bin\Debug\My.University.exe
+G:\kval\My.University\My.University\bin\Debug\My.University.pdb
+G:\kval\My.University\My.University\obj\Debug\AboutAuthor.baml
+G:\kval\My.University\My.University\obj\Debug\MainWindow.baml
+G:\kval\My.University\My.University\obj\Debug\Menu.baml
+G:\kval\My.University\My.University\obj\Debug\My.University.g.resources
+G:\kval\My.University\My.University\obj\Debug\My.University.Properties.Resources.resources
+G:\kval\My.University\My.University\obj\Debug\My.University.csproj.GenerateResource.Cache
+G:\kval\My.University\My.University\obj\Debug\News.g.cs
+G:\kval\My.University\My.University\obj\Debug\News.baml
+C:\Users\Vlad\Desktop\My.University\My.University\bin\Debug\My.University.exe.config
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\My.University.exe
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\My.University.pdb
+C:\Users\Vlad\Desktop\My.University\My.University\bin\Debug\My.University.exe
+C:\Users\Vlad\Desktop\My.University\My.University\bin\Debug\My.University.pdb
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\My.University.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\Photo.baml
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\AboutAuthor.g.cs
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\Dining.g.cs
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\Menu.g.cs
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\News.g.cs
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\Photo.g.cs
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\Schedule.g.cs
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\Shops.g.cs
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\Video.g.cs
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\App.g.cs
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\My.University_MarkupCompile.cache
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\My.University_MarkupCompile.lref
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\AboutAuthor.baml
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\Dining.baml
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\MainWindow.baml
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\Menu.baml
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\News.baml
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\Schedule.baml
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\Shops.baml
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\Video.baml
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\My.University.g.resources
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\My.University.Properties.Resources.resources
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\My.University.csproj.GenerateResource.Cache
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\Libraries.g.cs
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\Libraries.baml
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\Settings.g.cs
+C:\Users\Vlad\Desktop\My.University\My.University\obj\Debug\Settings.baml
+G:\kval\My.University\My.University\obj\Debug\Libraries.g.cs
+G:\kval\My.University\My.University\obj\Debug\Settings.g.cs
+G:\kval\My.University\My.University\obj\Debug\Libraries.baml
+G:\kval\My.University\My.University\obj\Debug\Settings.baml
+C:\Users\Vlad\Desktop\My.University — копия\My.University\bin\Debug\My.University.exe.config
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\My.University.exe
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\My.University.pdb
+C:\Users\Vlad\Desktop\My.University — копия\My.University\bin\Debug\My.University.exe
+C:\Users\Vlad\Desktop\My.University — копия\My.University\bin\Debug\My.University.pdb
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\My.University.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\Photo.baml
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\AboutAuthor.g.cs
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\Dining.g.cs
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\Libraries.g.cs
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\Menu.g.cs
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\News.g.cs
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\Photo.g.cs
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\Schedule.g.cs
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\Settings.g.cs
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\Shops.g.cs
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\Video.g.cs
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\App.g.cs
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\My.University_MarkupCompile.cache
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\My.University_MarkupCompile.lref
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\AboutAuthor.baml
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\Dining.baml
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\Libraries.baml
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\MainWindow.baml
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\Menu.baml
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\News.baml
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\Schedule.baml
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\Settings.baml
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\Shops.baml
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\Video.baml
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\My.University.g.resources
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\My.University.Properties.Resources.resources
+C:\Users\Vlad\Desktop\My.University — копия\My.University\obj\Debug\My.University.csproj.GenerateResource.Cache
+G:\kval\My.University — копия\My.University\bin\Debug\My.University.exe.config
+G:\kval\My.University — копия\My.University\obj\Debug\My.University.exe
+G:\kval\My.University — копия\My.University\obj\Debug\My.University.pdb
+G:\kval\My.University — копия\My.University\obj\Debug\My.University.csprojResolveAssemblyReference.cache
+G:\kval\My.University — копия\My.University\obj\Debug\Photo.baml
+G:\kval\My.University — копия\My.University\obj\Debug\AboutAuthor.g.cs
+G:\kval\My.University — копия\My.University\obj\Debug\Dining.g.cs
+G:\kval\My.University — копия\My.University\obj\Debug\Libraries.g.cs
+G:\kval\My.University — копия\My.University\obj\Debug\MainWindow.g.cs
+G:\kval\My.University — копия\My.University\obj\Debug\News.g.cs
+G:\kval\My.University — копия\My.University\obj\Debug\Photo.g.cs
+G:\kval\My.University — копия\My.University\obj\Debug\Schedule.g.cs
+G:\kval\My.University — копия\My.University\obj\Debug\Settings.g.cs
+G:\kval\My.University — копия\My.University\obj\Debug\Shops.g.cs
+G:\kval\My.University — копия\My.University\obj\Debug\Video.g.cs
+G:\kval\My.University — копия\My.University\obj\Debug\App.g.cs
+G:\kval\My.University — копия\My.University\obj\Debug\My.University_MarkupCompile.cache
+G:\kval\My.University — копия\My.University\obj\Debug\My.University_MarkupCompile.lref
+G:\kval\My.University — копия\My.University\bin\Debug\My.University.exe
+G:\kval\My.University — копия\My.University\bin\Debug\My.University.pdb
+G:\kval\My.University — копия\My.University\obj\Debug\AboutAuthor.baml
+G:\kval\My.University — копия\My.University\obj\Debug\Dining.baml
+G:\kval\My.University — копия\My.University\obj\Debug\Libraries.baml
+G:\kval\My.University — копия\My.University\obj\Debug\MainWindow.baml
+G:\kval\My.University — копия\My.University\obj\Debug\News.baml
+G:\kval\My.University — копия\My.University\obj\Debug\Schedule.baml
+G:\kval\My.University — копия\My.University\obj\Debug\Settings.baml
+G:\kval\My.University — копия\My.University\obj\Debug\Shops.baml
+G:\kval\My.University — копия\My.University\obj\Debug\Video.baml
+G:\kval\My.University — копия\My.University\obj\Debug\My.University.g.resources
+G:\kval\My.University — копия\My.University\obj\Debug\My.University.Properties.Resources.resources
+G:\kval\My.University — копия\My.University\obj\Debug\My.University.csproj.GenerateResource.Cache
+G:\kval\My.University — копия\My.University\obj\Debug\Menu.g.cs
+G:\kval\My.University — копия\My.University\obj\Debug\Menu.baml
+F:\kval\My.University\My.University\obj\Debug\AboutAuthor.g.cs
+F:\kval\My.University\My.University\obj\Debug\Dining.g.cs
+F:\kval\My.University\My.University\obj\Debug\Libraries.g.cs
+F:\kval\My.University\My.University\obj\Debug\News.g.cs
+F:\kval\My.University\My.University\obj\Debug\Settings.g.cs
+F:\kval\My.University\My.University\obj\Debug\Shops.g.cs
+F:\kval\My.University\My.University\obj\Debug\Video.g.cs
+F:\kval\My.University\My.University\obj\Debug\AboutAuthor.baml
+F:\kval\My.University\My.University\obj\Debug\Dining.baml
+F:\kval\My.University\My.University\obj\Debug\Libraries.baml
+F:\kval\My.University\My.University\obj\Debug\News.baml
+F:\kval\My.University\My.University\obj\Debug\Settings.baml
+F:\kval\My.University\My.University\obj\Debug\Shops.baml
+F:\kval\My.University\My.University\obj\Debug\Video.baml
+J:\kval\My.University\My.University\obj\Debug\AboutAuthor.g.cs
+J:\kval\My.University\My.University\obj\Debug\Dining.g.cs
+J:\kval\My.University\My.University\obj\Debug\Libraries.g.cs
+J:\kval\My.University\My.University\obj\Debug\News.g.cs
+J:\kval\My.University\My.University\obj\Debug\Settings.g.cs
+J:\kval\My.University\My.University\obj\Debug\Shops.g.cs
+J:\kval\My.University\My.University\obj\Debug\Video.g.cs
+J:\kval\My.University\My.University\obj\Debug\AboutAuthor.baml
+J:\kval\My.University\My.University\obj\Debug\Dining.baml
+J:\kval\My.University\My.University\obj\Debug\Libraries.baml
+J:\kval\My.University\My.University\obj\Debug\News.baml
+J:\kval\My.University\My.University\obj\Debug\Settings.baml
+J:\kval\My.University\My.University\obj\Debug\Shops.baml
+J:\kval\My.University\My.University\obj\Debug\Video.baml
+G:\kval\My.University\My.University\obj\Debug\Schedule2.g.cs
+G:\kval\My.University\My.University\obj\Debug\Schedule2.baml
+G:\kval\My.University\My.University\obj\Debug\Subject.g.cs
+G:\kval\My.University\My.University\obj\Debug\Subject.baml
+G:\kval\My.University\My.University\obj\Debug\My.University.csproj.ResolveComReference.cache
+C:\Users\Vlad\Desktop\kval\My.University\My.University\bin\Debug\My.University.exe.config
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\My.University.csproj.ResolveComReference.cache
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\My.University.exe
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\My.University.pdb
+C:\Users\Vlad\Desktop\kval\My.University\My.University\bin\Debug\My.University.exe
+C:\Users\Vlad\Desktop\kval\My.University\My.University\bin\Debug\My.University.pdb
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\My.University.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\Photo.baml
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\AboutAuthor.g.cs
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\Libraries.g.cs
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\Menu.g.cs
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\News.g.cs
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\Photo.g.cs
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\Schedule2.g.cs
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\Settings.g.cs
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\Subject.g.cs
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\App.g.cs
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\My.University_MarkupCompile.cache
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\My.University_MarkupCompile.lref
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\AboutAuthor.baml
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\Libraries.baml
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\MainWindow.baml
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\Menu.baml
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\News.baml
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\Schedule2.baml
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\Settings.baml
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\Subject.baml
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\My.University.g.resources
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\My.University.Properties.Resources.resources
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\My.University.csproj.GenerateResource.Cache
+C:\Users\Vlad\Desktop\kval\My.University\My.University\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vlad\Desktop\kval\My.University\My.University\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vlad\Desktop\kval\My.University\My.University\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Vlad\Desktop\kval\My.University\My.University\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\My.University\My.University\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\My.University\My.University\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\My.University\My.University\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\My.University\My.University\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\My.University\My.University\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\My.University\My.University\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\My.University\My.University\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\My.University\My.University\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\Addresses.g.cs
+C:\Users\Vlad\Desktop\kval\My.University\My.University\obj\Debug\Addresses.baml
+G:\kval\My.University\My.University\obj\Debug\Interop.AcroPDFLib.dll
+G:\kval\My.University\My.University\obj\Debug\AxInterop.AcroPDFLib.dll
+G:\kval\My.University\My.University\bin\Debug\Microsoft.Expression.Drawing.dll
+G:\kval\My.University\My.University\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+G:\kval\My.University\My.University\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+G:\kval\My.University\My.University\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+G:\kval\My.University\My.University\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+G:\kval\My.University\My.University\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+G:\kval\My.University\My.University\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+G:\kval\My.University\My.University\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+G:\kval\My.University\My.University\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+G:\kval\My.University\My.University\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+G:\kval\My.University\My.University\bin\Debug\Interop.AcroPDFLib.dll
+G:\kval\My.University\My.University\bin\Debug\AxInterop.AcroPDFLib.dll
+G:\kval\My.University\My.University\obj\Debug\Addresses.g.cs
+G:\kval\My.University\My.University\obj\Debug\Addresses.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\bin\Debug\My.University.exe.config
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\My.University.csproj.ResolveComReference.cache
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\My.University.exe
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\My.University.pdb
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\bin\Debug\My.University.exe
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\bin\Debug\My.University.pdb
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\My.University.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\Photo.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\AboutAuthor.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\Addresses.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\Libraries.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\Menu.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\News.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\Photo.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\Schedule2.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\Settings.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\Subject.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\App.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\My.University_MarkupCompile.cache
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\My.University_MarkupCompile.lref
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\AboutAuthor.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\Addresses.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\Libraries.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\MainWindow.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\Menu.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\News.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\Schedule2.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\Settings.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\Subject.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\My.University.g.resources
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\My.University.Properties.Resources.resources
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Program\My.University\obj\Debug\My.University.csproj.GenerateResource.Cache
+G:\kval\Dyrenkova\Source\My.University\bin\Debug\My.University.exe.config
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Interop.AcroPDFLib.dll
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\AxInterop.AcroPDFLib.dll
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.csproj.ResolveComReference.cache
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.exe
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.pdb
+G:\kval\Dyrenkova\Source\My.University\bin\Debug\My.University.exe
+G:\kval\Dyrenkova\Source\My.University\bin\Debug\My.University.pdb
+G:\kval\Dyrenkova\Source\My.University\bin\Debug\Microsoft.Expression.Drawing.dll
+G:\kval\Dyrenkova\Source\My.University\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+G:\kval\Dyrenkova\Source\My.University\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+G:\kval\Dyrenkova\Source\My.University\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+G:\kval\Dyrenkova\Source\My.University\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+G:\kval\Dyrenkova\Source\My.University\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+G:\kval\Dyrenkova\Source\My.University\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+G:\kval\Dyrenkova\Source\My.University\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+G:\kval\Dyrenkova\Source\My.University\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+G:\kval\Dyrenkova\Source\My.University\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+G:\kval\Dyrenkova\Source\My.University\bin\Debug\Interop.AcroPDFLib.dll
+G:\kval\Dyrenkova\Source\My.University\bin\Debug\AxInterop.AcroPDFLib.dll
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.csprojResolveAssemblyReference.cache
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Photo.baml
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\AboutAuthor.g.cs
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Addresses.g.cs
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Libraries.g.cs
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\MainWindow.g.cs
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Menu.g.cs
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\News.g.cs
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Photo.g.cs
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Schedule2.g.cs
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Settings.g.cs
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Subject.g.cs
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\App.g.cs
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University_MarkupCompile.cache
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University_MarkupCompile.lref
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\AboutAuthor.baml
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Addresses.baml
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Libraries.baml
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\MainWindow.baml
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Menu.baml
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\News.baml
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Schedule2.baml
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Settings.baml
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Subject.baml
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.g.resources
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.Properties.Resources.resources
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.csproj.GenerateResource.Cache
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\bin\Debug\My.University.exe.config
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.csproj.ResolveComReference.cache
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.exe
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.pdb
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\bin\Debug\My.University.exe
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\bin\Debug\My.University.pdb
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Photo.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\AboutAuthor.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Addresses.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Libraries.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Menu.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\News.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Photo.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Schedule2.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Settings.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Subject.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\App.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\My.University_MarkupCompile.cache
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\My.University_MarkupCompile.lref
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\AboutAuthor.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Addresses.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Libraries.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\MainWindow.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Menu.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\News.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Schedule2.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Settings.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Subject.baml
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.g.resources
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.Properties.Resources.resources
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.csproj.GenerateResource.Cache
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Help_Schedule.g.cs
+C:\Users\Vlad\Desktop\kval\Dyrenkova\Source\My.University\obj\Debug\Help_Schedule.baml
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Help_Schedule.g.cs
+G:\kval\Dyrenkova\Source\My.University\obj\Debug\Help_Schedule.baml
+E:\kval\Dyrenkova\Source\My.University\bin\Debug\My.University.exe.config
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Interop.AcroPDFLib.dll
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.csproj.ResolveComReference.cache
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.exe
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.pdb
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.csprojResolveAssemblyReference.cache
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Photo.baml
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\AboutAuthor.g.cs
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Addresses.g.cs
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Help_Schedule.g.cs
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Libraries.g.cs
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\MainWindow.g.cs
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Menu.g.cs
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\News.g.cs
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Photo.g.cs
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Schedule2.g.cs
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Settings.g.cs
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Subject.g.cs
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\App.g.cs
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University_MarkupCompile.cache
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University_MarkupCompile.lref
+E:\kval\Dyrenkova\Source\My.University\bin\Debug\My.University.exe
+E:\kval\Dyrenkova\Source\My.University\bin\Debug\My.University.pdb
+E:\kval\Dyrenkova\Source\My.University\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\kval\Dyrenkova\Source\My.University\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+E:\kval\Dyrenkova\Source\My.University\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+E:\kval\Dyrenkova\Source\My.University\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+E:\kval\Dyrenkova\Source\My.University\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+E:\kval\Dyrenkova\Source\My.University\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+E:\kval\Dyrenkova\Source\My.University\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+E:\kval\Dyrenkova\Source\My.University\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+E:\kval\Dyrenkova\Source\My.University\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\kval\Dyrenkova\Source\My.University\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\kval\Dyrenkova\Source\My.University\bin\Debug\Interop.AcroPDFLib.dll
+E:\kval\Dyrenkova\Source\My.University\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\AboutAuthor.baml
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Addresses.baml
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Help_Schedule.baml
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Libraries.baml
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\MainWindow.baml
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Menu.baml
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\News.baml
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Schedule2.baml
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Settings.baml
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\Subject.baml
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.g.resources
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.Properties.Resources.resources
+E:\kval\Dyrenkova\Source\My.University\obj\Debug\My.University.csproj.GenerateResource.Cache

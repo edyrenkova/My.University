@@ -1,0 +1,18 @@
+﻿<Window x:Name="subject" x:Class="My.University.Subject"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:My.University"
+        mc:Ignorable="d"
+        Title="Classes" Height="700" Width="700" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Loaded="subject_Loaded" SizeToContent="Height">
+    <Grid>
+        <TextBlock x:Name="lbl_name" TextAlignment="Center" Text="Name of the course (credits)" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="30" FontFamily="Gill Sans MT" Height="84" Margin="29,36,27.6,0" Width="637"/>
+        <TextBox x:Name="txtb_descripton" IsReadOnly="True" HorizontalAlignment="Center" FontSize="20" FontFamily="Gill Sans MT" Height="187" TextWrapping="Wrap" Text="Description" VerticalAlignment="Top" Width="637" Margin="29,125,27.6,0" UndoLimit="1000" SelectionBrush="{x:Null}" BorderBrush="{x:Null}" />
+        <DataGrid x:Name="dataGrid_cur" CanUserSortColumns="False"  HorizontalAlignment="Center" Height="219" Margin="29,378,27.6,0" VerticalAlignment="Top" Width="637" FontFamily="Gill Sans MT" FontSize="20" IsReadOnly="True" ColumnWidth="SizeToHeader" >
+        </DataGrid>
+        <Label x:Name="label_Copy" Content="Timetable" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Gill Sans MT" Margin="251,317,250.6,0" FontSize="40" Width="192" />
+        <Button x:Name="button1" Content="Add to the schedule" HorizontalAlignment="Center" Height="68" Margin="0,602,0,0" VerticalAlignment="Bottom" Width="315"  Background="{x:Null}" BorderBrush="{x:Null}" FontFamily="Gill Sans MT" FontSize="36" Click="button1_Click" />
+
+    </Grid>
+</Window>

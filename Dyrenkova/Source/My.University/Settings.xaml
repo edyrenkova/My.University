@@ -1,0 +1,32 @@
+﻿<Window x:Class="My.University.Settings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:My.University"
+        mc:Ignorable="d"
+        Title="Settings" Height="768" Width="1366" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Closed="Window_Closed" Loaded="Window_Loaded">
+    <Grid>
+        <TextBlock x:Name="textBlock" TextAlignment="Center" HorizontalAlignment="Center" FontSize="72" FontFamily="Gill Sans MT" Height="93" TextWrapping="Wrap" Text="MY.Settings" VerticalAlignment="Top" Width="1340" Margin="10,10,10,0" />
+        <Rectangle x:Name="grad" ToolTip="Back to the MainWindow" Cursor="Hand" Margin="1170,10,0,564.4" MouseDown="grad_MouseDown">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="graduate.png" Stretch="Uniform"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <TextBox x:Name="schedule_db" ToolTip="Press twice to choose from OpenFileDialog" HorizontalAlignment="Left" Height="44" Margin="534,141,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="607" FontFamily="Gill Sans MT" FontSize="30" MouseDoubleClick="schedule_db_MouseDoubleClick"/>
+        <Label x:Name="label" Content="Schedule Database" HorizontalAlignment="Left" Margin="232,141,0,0" VerticalAlignment="Top" FontFamily="Gill Sans MT" FontSize="30" Width="261"/>
+        <Label x:Name="label_Copy" Content="Famous Alumni's Information" HorizontalAlignment="Left" Margin="232,223,0,0" VerticalAlignment="Top" FontFamily="Gill Sans MT" FontSize="30" Width="403"/>
+        <TextBox x:Name="alumni_dir" HorizontalAlignment="Left" ToolTip="Press twice to choose from OpenFileDialog" Height="45" Margin="676,223,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="465" FontFamily="Gill Sans MT" FontSize="30" MouseDoubleClick="alumni_dir_MouseDoubleClick"/>
+        <Label x:Name="label_Copy1" Content="Campus Database" HorizontalAlignment="Left" Margin="232,311,0,0" VerticalAlignment="Top" FontFamily="Gill Sans MT" FontSize="30" Width="253"/>
+        <TextBox x:Name="campus_db" HorizontalAlignment="Left" ToolTip="Press twice to choose from OpenFileDialog" Height="45" Margin="526,311,0,0" VerticalAlignment="Top" Width="615" FontFamily="Gill Sans MT" FontSize="30" MouseDoubleClick="campus_db_MouseDoubleClick"/>
+        <Label x:Name="label_Copy2" Content="Social Networks Database" HorizontalAlignment="Left" Margin="232,400,0,0" VerticalAlignment="Top" FontFamily="Gill Sans MT" FontSize="30" Width="369"/>
+        <TextBox x:Name="top_dir" HorizontalAlignment="Left" ToolTip="Press twice to choose from OpenFileDialog" Height="45" Margin="831,479,0,0" VerticalAlignment="Top" Width="310" FontFamily="Gill Sans MT" FontSize="30" MouseDoubleClick="top_dir_MouseDoubleClick"/>
+        <Label x:Name="label_Copy3" Content="10-top American Universities Information" HorizontalAlignment="Left" Margin="232,479,0,0" VerticalAlignment="Top" FontFamily="Gill Sans MT" FontSize="30" Width="562"/>
+        <TextBox x:Name="net_db" HorizontalAlignment="Left" ToolTip="Press twice to choose from OpenFileDialog" Height="45" Margin="627,400,0,0" VerticalAlignment="Top" Width="514" FontFamily="Gill Sans MT" FontSize="30" MouseDoubleClick="net_db_MouseDoubleClick"/>
+        <TextBox x:Name="schedule_save_folder" HorizontalAlignment="Left" ToolTip="Press twice to choose from OpenFileDialog" Height="45" Margin="522,559,0,0" VerticalAlignment="Top" Width="619" FontFamily="Gill Sans MT" FontSize="30" MouseDoubleClick="schedule_save_Copy_MouseDoubleClick"/>
+        <Label x:Name="label_Copy4" Content="Saving schedule" HorizontalAlignment="Left" Margin="232,559,0,0" VerticalAlignment="Top" FontFamily="Gill Sans MT" FontSize="30" Width="253"/>
+        <TextBox x:Name="icon_picture" HorizontalAlignment="Left" ToolTip="Press twice to choose from OpenFileDialog" Height="46" Margin="560,638,0,0" VerticalAlignment="Top" Width="581" FontFamily="Gill Sans MT" FontSize="30" MouseDoubleClick="icon_picture_MouseDoubleClick"/>
+        <Label x:Name="label_Copy5" Content="Icon of the university" HorizontalAlignment="Left" Margin="232,638,0,0" VerticalAlignment="Top" FontFamily="Gill Sans MT" FontSize="30" Width="286"/>
+
+    </Grid>
+</Window>

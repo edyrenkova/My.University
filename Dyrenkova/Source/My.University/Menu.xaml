@@ -1,0 +1,55 @@
+﻿<Window x:Name="w_menu" x:Class="My.University.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:My.University"
+        mc:Ignorable="d"
+        Title="Menu" Height="760" Width="1360" Closing="w_menu_Closing" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Loaded="w_menu_Loaded">
+    <StackPanel Orientation="Vertical" Margin="0,0,-0.4,0.4">
+        <StackPanel Height="242" Orientation="Vertical" Margin="0,0,-0.4,0">
+            <Canvas Height="222" Margin="0,0,-0.4,0">
+                <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="117" TextWrapping="Wrap" VerticalAlignment="Top" Width="1360" FontSize="80" FontFamily="Gill Sans MT" TextAlignment="Center" FontWeight="Bold" Canvas.Left="-3" Canvas.Top="1"><Run Text="MY. University"/></TextBlock>
+                <Rectangle x:Name="grad" ToolTip="To The Beginning" RenderTransformOrigin="0.5,0.5" Cursor="Hand" Width="234" MouseDown="grad_MouseDown" Height="177" Canvas.Left="1123" Canvas.Top="1">
+                    <Rectangle.Fill>
+                        <ImageBrush ImageSource="graduate.png" Stretch="Uniform"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+                <Image x:Name="image" Height="116" Width="539" Canvas.Left="405" Canvas.Top="96" />
+            </Canvas>
+        </StackPanel>
+        <StackPanel Height="225" Orientation="Horizontal" HorizontalAlignment="Center" Margin="66,0,65.6,0">
+            <Rectangle Margin="100,30,100,0" Width="207" ToolTip="MY.Useful Info" Cursor="Hand" MouseDown="Rectangle_MouseDown_2">
+                <Rectangle.Fill>
+                    <ImageBrush Stretch="Uniform" ImageSource="pics/png_color/ereader.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle ToolTip="Famous Alumni" Margin="100,30,100,0" Width="207" MouseDown="Rectangle_MouseDown" Cursor="Hand" >
+                <Rectangle.Fill>
+                    <ImageBrush Stretch="Uniform" ImageSource="pics/png_color/graduation.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle ToolTip="MY.Campus" Margin="100,30,100,0" Width="208" Cursor="Hand" MouseDown="Rectangle_MouseDown_4" >
+                <Rectangle.Fill>
+                    <ImageBrush Stretch="Uniform" ImageSource="pics/png_color/school.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Height="248" Width="1084">
+            <Rectangle ToolTip="MY.Schedule" Margin="100,0,100,36.8" Width="207" Cursor="Hand" MouseDown="Rectangle_MouseDown_1">
+                <Rectangle.Fill>
+                    <ImageBrush Stretch="Uniform" ImageSource="pics/png_color/calendar.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle ToolTip="MY.Settings" Margin="100,0,100,37" Width="207" Cursor="Hand" MouseDown="Rectangle_MouseDown_6" >
+                <Rectangle.Fill>
+                    <ImageBrush Stretch="Uniform" ImageSource="pics/png_color/desktop.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Canvas Height="107" Margin="120,120,0,0" VerticalAlignment="Top" Width="133">
+                <Image Height="107" Canvas.Left="28" Width="105" Source="pics/png_color/mortarboard.png" Cursor="Hand" MouseDown="Image_MouseDown"/>
+            </Canvas>
+
+        </StackPanel>
+    </StackPanel>
+</Window>

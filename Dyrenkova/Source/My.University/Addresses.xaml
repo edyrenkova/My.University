@@ -1,0 +1,22 @@
+﻿<Window x:Class="My.University.Addresses"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:My.University"
+        mc:Ignorable="d"
+        Title="Details" Height="700" Width="1000" Loaded="Window_Loaded" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBlock x:Name="lbl_type" TextWrapping="Wrap" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="45" FontFamily="Gill Sans MT" Height="67" Margin="10,10,9.6,0" Width="674" FontWeight="Bold"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="583" Margin="10,77,0,0" VerticalAlignment="Top" Width="350" FontFamily="Times New Roman" FontSize="24" SelectionChanged="listBox_SelectionChanged" SelectedIndex="0"/>
+        <TextBlock x:Name="label" TextAlignment="Center" TextWrapping="Wrap" HorizontalAlignment="Left" Height="99" Margin="367,76,0,0" VerticalAlignment="Top" Width="591" RenderTransformOrigin="0.5,0.5" FontSize="30" FontFamily="Times New Roman" TextDecorations="Underline"/>
+        <Label x:Name="label_Copy" Content="" HorizontalAlignment="Left" Height="61" Margin="463,175,0,0" VerticalAlignment="Top" Width="495" RenderTransformOrigin="0.5,0.5" FontSize="30" FontFamily="Times New Roman">
+        </Label>
+        <TextBlock x:Name="label_Copy1" TextWrapping="Wrap" HorizontalAlignment="Left" Height="120" Margin="463,281,0,0" VerticalAlignment="Top" Width="495" RenderTransformOrigin="0.5,0.5" FontSize="30" FontFamily="Times New Roman"/>
+        <TextBox x:Name="label_Copy2" IsReadOnly="True" TextWrapping="Wrap" HorizontalAlignment="Left" Height="215" Margin="463,406,0,0" VerticalAlignment="Top" Width="495" RenderTransformOrigin="0.5,0.5" FontSize="30" FontFamily="Times New Roman" BorderBrush="{x:Null}" SelectionBrush="{x:Null}"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="92" Margin="372,160,0,0" VerticalAlignment="Top" Width="95" Source="pics/png_color/school-bell.png"/>
+        <Image x:Name="image_Copy" HorizontalAlignment="Left" Height="94" Margin="372,283,0,0" VerticalAlignment="Top" Width="90" Source="pics/png_color/location.png"/>
+        <Image x:Name="image_Copy1" HorizontalAlignment="Left" Height="91" Margin="372,406,0,0" VerticalAlignment="Top" Width="90" Source="pics/png_color/alarm-clock.png"/>
+
+    </Grid>
+</Window>
