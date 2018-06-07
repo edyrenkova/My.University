@@ -7,7 +7,7 @@
 Шлях файлу запуску програми: ...\Dyrenkova\Source\My.University.exe
 Для того, щоб запустити програму, необхідно перенести на комп'ютер папку Source.
 
-#My.University
+My.University
 Graduation project My.University.
 Author: Emiliia Dyrenkova
 Advisors: Bondik I.G., Zuyeva M.G.
