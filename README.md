@@ -1,6 +1,9 @@
 #My.University
+
 Випускна робота з теми: "The Helper For The US Student".
+
 Виконала: Диренкова Емілія, учениця 11-В класу.
+
 Керівники: Бондік І.Г., Зуєва М.Г.
 
 Програма є електронним допоміжником студента американського ВНЗ, написаний мовою С# у середовищі Microsoft Visual Studio 2015, що є надійним персональним асистентом для користувача.
@@ -10,7 +13,9 @@
 
 
 Graduation project My.University.
+
 Author: Emiliia Dyrenkova
+
 Advisors: Bondik I.G., Zuyeva M.G.
 
 The program is a helper for the U.S. university student, written in C# using Microsoft Visual Studio 2015.
