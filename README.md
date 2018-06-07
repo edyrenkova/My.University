@@ -1,3 +1,4 @@
+#My.University
 Випускна робота з теми: "The Helper For The US Student".
 Виконала: Диренкова Емілія, учениця 11-В класу.
 Керівники: Бондік І.Г., Зуєва М.Г.
@@ -7,7 +8,7 @@
 Шлях файлу запуску програми: ...\Dyrenkova\Source\My.University.exe
 Для того, щоб запустити програму, необхідно перенести на комп'ютер папку Source.
 
-My.University
+
 Graduation project My.University.
 Author: Emiliia Dyrenkova
 Advisors: Bondik I.G., Zuyeva M.G.
